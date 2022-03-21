@@ -1,6 +1,6 @@
 
 
-#include "four.h"
+#include "primenumber.h"
 
 int prime_number(int number) {
 	int res = 1;
